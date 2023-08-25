@@ -1,2 +1,2 @@
 # vishalgithub
-it is a clone first github respository
+it is a clone first git respository
